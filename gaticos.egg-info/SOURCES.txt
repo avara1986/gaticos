@@ -1,0 +1,11 @@
+pyproject.toml
+setup.py
+gaticos/__init__.py
+gaticos/main.py
+gaticos.egg-info/PKG-INFO
+gaticos.egg-info/SOURCES.txt
+gaticos.egg-info/dependency_links.txt
+gaticos.egg-info/entry_points.txt
+gaticos.egg-info/requires.txt
+gaticos.egg-info/top_level.txt
+gaticos.egg-info/zip-safe

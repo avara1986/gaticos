@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: gaticos
+Version: 0.0.2
+Summary: Librería de ejemplo
+Home-page: UNKNOWN
+Author: Alberto Vara
+Author-email: avara1986 <a.vara.1986@gmail.com>
+License: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
